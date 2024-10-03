@@ -1,0 +1,38 @@
+.bg-container {
+  background-image: linear-gradient(to top, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container1 {
+  background-color: #ffffff;
+  height: 60vh;
+  min-width: 80%;
+}
+.card-container2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.img {
+  width: 80%;
+}
+.hr {
+  border: 1px solid #b5b7c4;
+  width: 90%;
+}
+.input {
+  width: 90%;
+  margin-bottom: 10px;
+}
+.button {
+  background-color: #8b5cf6;
+  color: #ffffff;
+  border-radius: 3px;
+  border: 0px solid;
+  font-size: 8px;
+  height: 20px;
+  width: 40px;
+}
